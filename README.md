@@ -1,3 +1,3 @@
 ### Лекции
-[Информационное право](/information-law/README.md)
-[Билеты к экзамену](/tickets/README.md)
+- [Лекции](/information-law/README.md)
+- [Билеты](/tickets/README.md)
